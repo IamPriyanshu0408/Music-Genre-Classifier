@@ -1,0 +1,2 @@
+# Music-Genre-Classifier
+ This project implements a music genre classification system using Python. It leverages libraries like pandas and librosa for data manipulation and feature extraction from audio files. Machine learning models (e.g., Support Vector Machines) are trained with scikit-learn to identify genre-specific patterns. The project utilizes visualization tools (e.g., Matplotlib) to evaluate model performance.
